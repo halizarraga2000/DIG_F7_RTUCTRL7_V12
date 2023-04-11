@@ -1,0 +1,2 @@
+../Core/Src/CRC_dnp_modbus.c:23:6:computeCRC	24	static
+../Core/Src/CRC_dnp_modbus.c:40:6:cmpt_crcMODBUS	24	static
